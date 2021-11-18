@@ -1,4 +1,4 @@
-'''https://www.beecrowd.com.br/judge/pt/problems/view/1036'''
+#https://www.beecrowd.com.br/judge/pt/problems/view/1036S
 
 v = input().split()
 a, b, c = v
