@@ -1,4 +1,4 @@
-#https://www.beecrowd.com.br/judge/pt/problems/view/1004
+#https://www.beecrowd.com.br/judge/pt/problems/view/1005
 
 var input = require("fs").readFileSync("stdin", "utf8");
 
